@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 系统攻防自测"
+  short_description: "使用五类提示词注入攻击测试聊天助手、RAG、Agent与工作流安全防线"
+  default_prompt: "使用 $ai-system-security-self-test 检查这个 AI 系统的提示词注入风险，并输出注入面、攻击结果和修复建议。"
